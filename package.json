@@ -1,0 +1,26 @@
+{
+  "name": "cordova-privacy-screen-plugin-without-ios",
+  "version": "0.0.1",
+  "description": "Clone of cordova-plugin-privacyscreen without ios part",
+  "cordova": {
+    "id": "cordova-privacy-screen-plugin-without-ios",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stvmachine/cordova-privacy-screen-plugin-without-ios.git"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "hipaa",
+    "privacy",
+    "snapshot",
+    "switcher",
+    "secure"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/stvmachine/cordova-privacy-screen-plugin-without-ios.git#readme"
+}
